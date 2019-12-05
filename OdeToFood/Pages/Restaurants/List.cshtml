@@ -1,4 +1,4 @@
-﻿@page
+﻿@page 
 @model OdeToFood.Pages.Resteraunts.ListModel
 @{
 }
@@ -30,6 +30,11 @@
             </td>
             <td>
                 @restaurant.Cuisine
+            </td>
+            <td>
+                <a class="btn btn-lg" asp-page="./Detail" asp-route-resterauntId="@restaurant.Id">
+                    <i class="glyphicon glyphicon-zoom-in"></i>
+                 </a>
             </td>
         </tr>
     }
