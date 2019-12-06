@@ -24,7 +24,7 @@ namespace OdeToFood.Pages
             Restaurant = restaurantData.GetById(restaurantId);
             if (Restaurant == null)
             {
-                return RedirectToPage("./NotFound")
+                return RedirectToPage("./NotFound");
             }
             return Page();
         }

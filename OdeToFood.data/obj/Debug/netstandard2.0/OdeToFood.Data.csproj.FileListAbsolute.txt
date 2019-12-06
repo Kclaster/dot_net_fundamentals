@@ -9,3 +9,14 @@ C:\Users\Kyle\code\dot_net\OdeToFood\OdeToFood.data\obj\Debug\netstandard2.0\Ode
 C:\Users\Kyle\code\dot_net\OdeToFood\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
 C:\Users\Kyle\code\dot_net\OdeToFood\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
 C:\Users\Kyle\code\dot_net\OdeToFood\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Users\kylel\code\dotnet\dot_net_fundamentals\OdeToFood.data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
